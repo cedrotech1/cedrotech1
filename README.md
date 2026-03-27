@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Cedrick
 
-<!--
-**cedrotech1/cedrotech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Developer** working as a **Backend Developer**.  
+I enjoy building clean, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- JavaScript / TypeScript  
+- React / Next.js  
+- Tailwind CSS  
+- Node.js / Express  
+- MongoDB / PostgreSQL  
+- React Native  
+
+
+---
+
+## 📚 Currently Learning
+
+- C# and .NET  Devops Core  
+- Flutter
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: [your-linkedin-url  ](https://www.linkedin.com/in/cedrick-hakuzimana-734352245/)
+- Email: your-email@example.com  
+
+---
+
+## 📊 GitHub Stats
+
+![Cedrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedrotech1&show_icons=true&theme=tokyonight)
