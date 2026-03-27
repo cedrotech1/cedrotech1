@@ -9,10 +9,11 @@ I enjoy building clean, scalable, and user-friendly applications.
 
 - JavaScript / TypeScript  
 - React / Next.js  
+- React Native  
 - Tailwind CSS  
 - Node.js / Express  
-- MongoDB / PostgreSQL  
-- React Native  
+- PHP / Laravel  
+- MongoDB / PostgreSQL/ Mysql ...
 
 
 ---
