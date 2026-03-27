@@ -26,11 +26,5 @@ I enjoy building clean, scalable, and user-friendly applications.
 
 ## 🌐 Connect with me
 
-- LinkedIn: [your-linkedin-url  ](https://www.linkedin.com/in/cedrick-hakuzimana-734352245/)
-- Email: your-email@example.com  
-
----
-
-## 📊 GitHub Stats
-
-![Cedrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedrotech1&show_icons=true&theme=tokyonight)
+- LinkedIn: [linkedin  ](https://www.linkedin.com/in/cedrick-hakuzimana-734352245/)
+- Email: cedrotech1@gmail.com 
